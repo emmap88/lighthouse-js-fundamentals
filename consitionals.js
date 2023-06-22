@@ -5,10 +5,6 @@ if(isCitizen && age > 18){
   console.log("You'll are eligible to vote.");
 }
 
-if(isCitizen && age > 18){
-  console.log("You'll are eligible to vote.");
-}
-
 /*const temperature = 12; 
 
 if(temperature < 0)
